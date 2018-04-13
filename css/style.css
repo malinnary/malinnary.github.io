@@ -1,9 +1,9 @@
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("https://fonts.googleapis.com/css?family=New+Rocker");
 @import url("font-awesome.min.css");
 
 	body, input, select, textarea {
-		color: Gainsboro;
-		font-family: 'Source Sans Pro', sans-serif;
+		color: LIGHTGRAY;
+		font-family: 'New Rocker', cursive;
 		font-size: 15pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
@@ -134,7 +134,7 @@
 				}
 
 				#header nav a:hover {
-					color: rgb(139, 0, 0);
+					color: rgb(128, 0, 0);
 				}		
 
 				@keyframes wrapper { 0% { opacity: 0; } 100% { opacity: 1; } }
